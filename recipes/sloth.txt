@@ -1,17 +1,12 @@
 Chris' Steamed Buns
 -------------------
-<<<<<<< HEAD
 1 1/2 cups all-purpose flour
 1 tablespoon vegetable oil
-
-2. Mix in 1/2 cup warm water, flour, salt, 2 tablespoons sugar, and vegetable oil.
-13. Continue steaming batches of buns until all are cooked.
-=======
-
 1/4 cup water
 1 1/2 cups all-purpose flour
 
+2. Mix in 1/2 cup warm water, flour, salt, 2 tablespoons sugar, and vegetable oil.
 3. Knead until dough surface is smooth and elastic. Roll over in a greased bowl, and let stand until triple in size, about 2 1/2 to 3 hours.
 4. Punch down dough, and spread out on a floured board.
 8. Bring water to a boil in wok, and reduce heat to medium; the water should still be boiling.
->>>>>>> 8e102dada305eb4e5c34f08666db35b8bcda75e8
+13. Continue steaming batches of buns until all are cooked.
